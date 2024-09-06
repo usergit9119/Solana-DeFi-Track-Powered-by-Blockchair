@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+*.egg-info/
+dist/
+build/
+/projectvenv/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Misc
+*.swp
+*~
